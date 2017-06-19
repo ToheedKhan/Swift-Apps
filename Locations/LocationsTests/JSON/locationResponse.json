@@ -1,0 +1,42 @@
+[
+ {
+ "ID": 4578,
+ "Name": "Lou Malnati's Pizzeria",
+ "Latitude": 39.99,
+ "Longitude": -87.69,
+ "Address": "439 N Wells St, Chicago, IL 60654",
+ "ArrivalTime": "2016-01-27T20:56:35.74"
+ },
+ {
+ "ID": 4580,
+ "Name": "Tribune Tower",
+ "Latitude": 41.89,
+ "Longitude": -87.62,
+ "Address": "435 N Michigan Ave, Chicago, IL 60611",
+ "ArrivalTime": "2016-01-28T01:39:35.74"
+ },
+ {
+ "ID": 4579,
+ "Name": "Naf Naf Grill",
+ "Latitude": 41.86,
+ "Longitude": -87.63,
+ "Address": "309 W Washington St, Chicago, IL 60606",
+ "ArrivalTime": "2016-01-28T07:04:35.74"
+ },
+ {
+ "ID": 4577,
+ "Name": "Frontera Grill",
+ "Latitude": 41.89,
+ "Longitude": -87.63,
+ "Address": "445 N Clark St, Chicago, IL 60654",
+ "ArrivalTime": "2016-01-28T04:50:35.74"
+ },
+ {
+ "ID": 4574,
+ "Name": "Wrigley Field",
+ "Latitude": 41.94,
+ "Longitude": -87.65,
+ "Address": "1060 W Addison St, Chicago, IL 60613",
+ "ArrivalTime": "2016-01-28T03:40:35.74"
+ }
+ ]
